@@ -5,3 +5,4 @@
 - Three rasterization primitives: spheres, Perlin-based noise, and pyroclastics (computed using Perlin noise and fractal Brownian motion).
 
 ![alt tag](https://github.com/rl-williams/VolumetricRenderer/blob/master/images/img03.png)
+![alt tag](https://github.com/rl-williams/VolumetricRenderer/blob/master/images/img02.png)
